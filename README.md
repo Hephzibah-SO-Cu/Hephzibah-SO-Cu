@@ -9,8 +9,8 @@ I take documents — executive blueprints, slide decks, meeting notes — and tu
 **Zowasel** — Frontend Software Engineer, July 2026 to present. Three products, reassigned between them as priorities moved:
 
 - **B2B agricultural marketplace** — sole frontend engineer. Rebuilt it from a login-gated dashboard into a public storefront with a separate signed-in workspace, so buyers can browse before they register.
-- **[zowasel.com](https://zowasel.com)** — primary frontend author. Built from slide decks and briefs into responsive production pages.
-- **Multi-tenant admin platform** — led the redesign after taking over a part-built frontend from a backend engineer: authentication, a Finance Hub with a requisitions pipeline and multi-bank aggregation, subscriptions, transactions and payment providers.
+- **Company website — [zowasel.com](https://zowasel.com)** — primary frontend author. Built from slide decks and briefs into responsive production pages.
+- **Multi-tenant admin platform** ([the code is public](https://github.com/zowaseltenancy/zowasel-multitenancy-admin)) — led the redesign after taking over a part-built frontend from a backend engineer: authentication, a Finance Hub with a requisitions pipeline and multi-bank aggregation, subscriptions, transactions and payment providers.
 
 What I'd actually point at from that:
 
@@ -24,7 +24,7 @@ What I'd actually point at from that:
 
 Most of my commits since July are to **private company repositories**, so they appear here as contributions with no repo name and no message attached. The public repos on this profile are older — coursework, internship challenges and side projects — and they are not where the work is.
 
-The products are public even though the source isn't, so the honest place to look is [zowasel.com](https://zowasel.com) and my [portfolio](https://busayo-so.vercel.app).
+The marketplace and the website are closed source. The admin platform is **not** — it's pinned below and you can read it. Otherwise the products themselves are public: [zowasel.com](https://zowasel.com), and my [portfolio](https://busayo-so.vercel.app).
 
 ### Stack
 
